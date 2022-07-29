@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="hot_movies">HOT MOVIES</string>
+    <string name="showing_now">SHOWING NOW</string>
+    <string name="coming_soon">COMING SOON</string>
+    <string name="you_might_like">YOU MIGHT LIKE</string>
+    <string name="series">SERIES</string>
+    <string name="netflix_series">NETFLIX SERIES</string>
+</resources>
